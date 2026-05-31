@@ -1,8 +1,11 @@
-### Note 
-At the moment, the data used in this project is undergoing continuous updates and refinement.  
-As a result, we have not included it in the current version of this repository.  
-We are committed to open science and will make the data publicly available in this repository as soon as the ongoing processes are finalized and validated.  
+# Modeling outputs
 
+This folder contains serialized model objects and related outputs generated 
+during statistical modeling.  
+
+These files are not included in this repository because of file size limitations. 
+Modeling outputs can be reproduced using the analysis scripts provided in 
+the `code/` directory.
 
 # RDS objects
 Hurdle Poisson model:  

@@ -1,8 +1,10 @@
 ### Note 
-At the moment, the data used in this project is undergoing continuous updates and refinement.  
-As a result, we have not included it in the current version of this repository.  
-We are committed to open science and will make the data publicly available in this repository as soon as the ongoing processes are finalized and validated.  
 
+This folder contains cleaned datasets generated from the raw data.  
+
+Processed data files are not included in this repository due to data sharing 
+restrictions and file size limitations. 
+These files are generated using scripts provided in the `code/` directory.  
 
 ## DATA DESCRIPTION
 | Variable          | Units   | Note	|

@@ -1,11 +1,7 @@
-### Note 
-At the moment, the data used in this project is undergoing continuous updates and refinement.  
-As a result, we have not included it in the current version of this repository.  
-We are committed to open science and will make the data publicly available in this repository as soon as the ongoing processes are finalized and validated.  
-
 
 ## METEOROLOGICAL DATA
-Get data at http://www.data.jma.go.jp/gmd/risk/obsdl/index.php  
+The data are not included in this repository because of file size limitations. 
+Get data at [Japan Meteorological Agency](http://www.data.jma.go.jp/gmd/risk/obsdl/index.php).  
 
 ## Data description
 | Variable          	| Units   	|

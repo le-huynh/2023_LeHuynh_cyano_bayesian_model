@@ -1,5 +1,8 @@
-### Note 
-At the moment, the data used in this project is undergoing continuous updates and refinement.  
-As a result, we have not included it in the current version of this repository.  
-We are committed to open science and will make the data publicly available in this repository as soon as the ongoing processes are finalized and validated.  
+# Raw data
+
+This folder stores the original raw data used in the study.  
+
+Raw data files are not included in this repository due to data sharing 
+restrictions and file size limitations. 
+Files in this directory should remain unchanged once created or downloaded.
 
